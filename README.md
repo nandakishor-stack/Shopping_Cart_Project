@@ -26,6 +26,20 @@ A modern and responsive Shopping Cart application built using **React.js** and *
 
 ---
 
+## 📂 Project Structure
+
+shopping-cart-project/
+│
+├── node_modules/          # Installed dependencies
+├── public/                # Static files (index.html, favicon, etc.)
+├── src/                   # Main source code
+│
+├── .gitignore             # Git ignored files
+├── package.json           # Project metadata and dependencies
+├── package-lock.json      # Dependency lock file
+├── postcss.config.js      # PostCSS configuration (for Tailwind)
+├── tailwind.config.js     # Tailwind CSS configuration
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
